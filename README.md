@@ -1,1 +1,1 @@
-# .shuaishuaiyu.io
+# shuaishuaiyu.io
